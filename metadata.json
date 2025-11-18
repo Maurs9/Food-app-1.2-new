@@ -1,0 +1,7 @@
+{
+  "name": "Ghid de Alimentație Inteligent 1.2",
+  "description": "Un asistent de cumpărături inteligent care oferă un ghid interactiv de alimentație, analizează produse prin scanarea codului de bare sau prin fotografii și oferă recomandări personalizate folosind AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
